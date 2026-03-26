@@ -1,9 +1,5 @@
 print("============")
-<<<<<<< HEAD
-print("hello, Git!!!")
-=======
-print("hello, Git@@@")
->>>>>>> feat/one
+print("hello, Git!!!@@@")
 
 print("Hi, Git")
 print("============")
